@@ -1,0 +1,712 @@
+{
+  "Two Wheelers": {
+    "BAJAJ": {
+      "4S Champiton (KS)": {
+        "Petrol": {
+          "battery-name": "AMARON FLO Automotive Battery - BH90D23L (AAM-FL-0BH90D23L)",
+          "Base Price (Inclusive of GST)": 8032,
+          "Discount Price" : 142,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-FL-0BH90D23L",
+          "model": "BH90D23L",
+          "dimentions": "232x173x225",
+          "voltage": 12,
+          "amphere_hour": 70,
+          "warranty": 60,
+          "free_warranty": 30,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "Aspire (KS)": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Bike Rider 2 Wheeler Battery - 12APBTX25 (ABR-PR-12APBTX25)",
+          "Base Price (Inclusive of GST)": 1181,
+          "Discount Price" : 122,
+          "brand": "AMARON",
+          "series": "PRO",
+          "item_code": "ABR-PR-12APBTX25",
+          "model": "AP-BTX2.5",
+          "dimentions": "80x70x105",
+          "voltage": 12,
+          "amphere_hour": 2.5,
+          "warranty": 48,
+          "free_warranty": 24,
+          "pro_warranty": 24,
+          "country": "India"
+        }
+      },
+      "Avenger 150 (ES)": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Bike Rider 2 Wheeler Battery - APBTZ5L (ABR-PR-APBTZ5L)",
+          "Base Price (Inclusive of GST)": 1571,
+          "Discount Price" : 242,
+          "brand": "AMARON",
+          "series": "PRO",
+          "item_code": "ABR-PR-APBTZ5L",
+          "model": "AP-BTZ5L",
+          "dimentions": "113x70x105",
+          "voltage": 12,
+          "amphere_hour": 4,
+          "warranty": 48,
+          "free_warranty": 24,
+          "pro_warranty": 24,
+          "country": "India"
+        }
+      }
+    },
+    "HONDA": {
+      "Activa 125 Deluxe(BS6)": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Bike Rider 2 Wheeler Battery - 12APBTX25 (ABR-PR-12APBTX25)",
+          "Base Price (Inclusive of GST)": 1181,
+          "Discount Price" : 142,
+          "brand": "AMARON",
+          "series": "PRO",
+          "item_code": "ABR-PR-12APBTX25",
+          "model": "AP-BTX2.5",
+          "dimentions": "80x70x105",
+          "voltage": 12,
+          "amphere_hour": 2.5,
+          "warranty": 48,
+          "free_warranty": 24,
+          "pro_warranty": 24,
+          "country": "India"
+        }
+      },
+      "HONDA CB Dazzler (ES)": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Bike Rider 2 Wheeler Battery - 12APBTX25 (ABR-PR-12APBTX25)",
+          "Base Price (Inclusive of GST)": 1181,
+          "brand": "AMARON",
+          "series": "PRO",
+          "item_code": "ABR-PR-12APBTX25",
+          "model": "AP-BTX2.5",
+          "dimentions": "80x70x105",
+          "voltage": 12,
+          "amphere_hour": "2.5",
+          "warranty": "48",
+          "free_warranty": "24",
+          "pro_warranty": "24",
+          "country": "India"
+        }
+      },
+      "CB Trigger (ES)": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Bike Rider 2 Wheeler Battery - APBTZ5L (ABR-PR-APBTZ5L)",
+          "Base Price (Inclusive of GST)": 2071,
+          "Discount Price" : 542,
+          "brand": "AMARON",
+          "series": "PRO",
+          "item_code": "ABR-PR-APBTZ5L",
+          "model": "AP-BTZ5L",
+          "dimentions": "113x70x105",
+          "voltage": 12,
+          "amphere_hour": 4,
+          "warranty": 48,
+          "free_warranty": 24,
+          "pro_warranty": 24,
+          "country": "India"
+        }
+      }
+    },
+    "BENELLI": {
+      "302R (ES)": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Bike Rider 2 Wheeler Battery - 12APBTX25 (ABR-PR-12APBTX25)",
+          "Base Price (Inclusive of GST)": 1901,
+          "Discount Price" : 142,
+          "brand": "AMARON",
+          "series": "PRO",
+          "item_code": "ABR-PR-12APBTX25",
+          "model": "AP-BTX2.5",
+          "dimentions": "80x70x105",
+          "voltage": 12,
+          "amphere_hour": 2.5,
+          "warranty": 48,
+          "free_warranty": 24,
+          "pro_warranty": 24,
+          "country": "India"
+        }
+      },
+      "Imperial 400 (ES)": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Bike Rider 2 Wheeler Battery - 12APBTX25 (ABR-PR-12APBTX25)",
+          "Base Price (Inclusive of GST)": 1181,
+          "brand": "AMARON",
+          "series": "PRO",
+          "item_code": "ABR-PR-12APBTX25",
+          "model": "AP-BTX2.5",
+          "dimentions": "80x70x105",
+          "voltage": 12,
+          "amphere_hour": 2.5,
+          "warranty":48,
+          "free_warranty": 24,
+          "pro_warranty": 24,
+          "country": "India"
+        }
+      },
+      "TRK 502X": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Bike Rider 2 Wheeler Battery - APBTZ5L (ABR-PR-APBTZ5L)",
+          "Base Price (Inclusive of GST)": 2571,
+          "Discount Price" : 542,
+          "brand": "AMARON",
+          "series": "PRO",
+          "item_code": "ABR-PR-APBTZ5L",
+          "model": "AP-BTZ5L",
+          "dimentions": "113x70x105",
+          "voltage": 12,
+          "amphere_hour": 4,
+          "warranty": 48,
+          "free_warranty": 24,
+          "pro_warranty": 24,
+          "country": "India"
+        }
+      }
+    }
+  },
+  "Passengers": {
+    "AUDI": {
+      "A3": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "Discount Price" : 1142,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 22389,
+          "Discount Price" : 1242,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "A4": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "Discount Price" : 1442,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "Discount Price" : 1142,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "A5": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "Discount Price" : 1422,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "Discount Price" : 1232,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "A6": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "Discount Price" : 5123,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "Discount Price" : 1432,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      }
+    },
+    "BMW": {
+      "3 Series": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "5 Series": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "6 Series": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "7 Series": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      }
+    },
+    "FORD": {
+      "Escort": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "Fiesta": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "Fiesta Dura Torque MT1.4L": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      },
+      "Fusion": {
+        "Petrol": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        },
+        "Desel": {
+          "battery-name": "AMARON PRO Automotive Battery - 600109087 (AAM-PR-600109087)",
+          "Base Price (Inclusive of GST)": 21389,
+          "brand": "AMARON",
+          "series": "FLO",
+          "item_code": "AAM-PR-600109087",
+          "model": "600109087",
+          "dimentions": "353x175x190",
+          "voltage": 12,
+          "amphere_hour": 100,
+          "warranty": 66,
+          "free_warranty": 36,
+          "pro_warranty": 30,
+          "country": "India"
+        }
+      }
+    }
+  },
+  "Commercial": {
+    "TATA": {
+      "1109 LP": {
+        "Desel": {
+          "battery-name": "AMARON HIWAY Automotive Battery - NTX00D04R (AAM-HW-NTX00D04R)",
+          "Base Price (Inclusive of GST)": 16344,
+          "brand": "AMARON",
+          "series": "Hiway",
+          "item_code": "AAM-HW-NTX00D04R",
+          "model": "NTX00D04R",
+          "dimentions": "540x222x240",
+          "voltage": 12,
+          "amphere_hour": 150,
+          "warranty": 42,
+          "free_warranty": 24,
+          "pro_warranty": 18,
+          "country": "India"
+        }
+      },
+      "1109 LPT": {
+        "Desel": {
+          "battery-name": "AMARON HIWAY Automotive Battery - NTX00D04R (AAM-HW-NTX00D04R)",
+          "Base Price (Inclusive of GST)": 16344,
+          "brand": "AMARON",
+          "series": "Hiway",
+          "item_code": "AAM-HW-NTX00D04R",
+          "model": "NTX00D04R",
+          "dimentions": "540x222x240",
+          "voltage": 12,
+          "amphere_hour": 150,
+          "warranty": 42,
+          "free_warranty": 24,
+          "pro_warranty": 18,
+          "country": "India"
+        }
+      },
+      "1109 BSIII EX2( Export)": {
+        "Desel": {
+          "battery-name": "AMARON HIWAY Automotive Battery - NTX00D04R (AAM-HW-NTX00D04R)",
+          "Base Price (Inclusive of GST)": 8437,
+          "brand": "AMARON",
+          "series": "Hiway",
+          "item_code": "AAM-HW-NT650H29R",
+          "model": "NT650H29R",
+          "dimentions": "364x176x234",
+          "voltage": 12,
+          "amphere_hour": 90,
+          "warranty": 42,
+          "free_warranty": 24,
+          "pro_warranty": 18,
+          "country": "India"
+        }
+      },
+      "1109 BSIV ( Export)": {
+        "Desel": {
+          "battery-name": "AMARON HIWAY Automotive Battery - NTX00D04R (AAM-HW-NTX00D04R)",
+          "Base Price (Inclusive of GST)": 8437,
+          "brand": "AMARON",
+          "series": "Hiway",
+          "item_code": "AAM-HW-NT650H29R",
+          "model": "NT650H29R",
+          "dimentions": "364x176x234",
+          "voltage": 12,
+          "amphere_hour": 90,
+          "warranty": 42,
+          "free_warranty": 24,
+          "pro_warranty": 18,
+          "country": "India"
+        }
+      }
+    },
+    "VOLVO": {
+      "B11R": {
+        "Desel": {
+          "battery-name": "AMARON HIWAY Automotive Battery - NTX00D04R (AAM-HW-NTX00D04R)",
+          "Base Price (Inclusive of GST)": 18531,
+          "brand": "AMARON",
+          "series": "Hiway",
+          "item_code": "AAM-HW-NTX00D04R",
+          "model": "NTX00D04R",
+          "dimentions": "540x222x240",
+          "voltage": 12,
+          "amphere_hour": 150,
+          "warranty": 42,
+          "free_warranty": 24,
+          "pro_warranty": 18,
+          "country": "India"
+        }
+      },
+      "B7R": {
+        "Desel": {
+          "battery-name": "AMARON HIWAY Automotive Battery - NTX00D04R (AAM-HW-NTX00D04R)",
+          "Base Price (Inclusive of GST)": 16344,
+          "brand": "AMARON",
+          "series": "Hiway",
+          "item_code": "AAM-HW-NTX00D04R",
+          "model": "NTX00D04R",
+          "dimentions": "540x222x240",
+          "voltage": 12,
+          "amphere_hour": 150,
+          "warranty": 42,
+          "free_warranty": 24,
+          "pro_warranty": 18,
+          "country": "India"
+        }
+      },
+      "B9R": {
+        "Desel": {
+          "battery-name": "AMARON HIWAY Automotive Battery - NTX00D04R (AAM-HW-NTX00D04R)",
+          "Base Price (Inclusive of GST)": 8437,
+          "brand": "AMARON",
+          "series": "Hiway",
+          "item_code": "AAM-HW-NT650H29R",
+          "model": "NT650H29R",
+          "dimentions": "364x176x234",
+          "voltage": 12,
+          "amphere_hour": 90,
+          "warranty": 42,
+          "free_warranty": 24,
+          "pro_warranty": 18,
+          "country": "India"
+        }
+      },
+      "FM66RB9CR": {
+        "Desel": {
+          "battery-name": "AMARON HIWAY Automotive Battery - NTX00D04R (AAM-HW-NTX00D04R)",
+          "Base Price (Inclusive of GST)": 8437,
+          "brand": "AMARON",
+          "series": "Hiway",
+          "item_code": "AAM-HW-NT650H29R",
+          "model": "NT650H29R",
+          "dimentions": "364x176x234",
+          "voltage": 12,
+          "amphere_hour": 90,
+          "warranty": 42,
+          "free_warranty": 24,
+          "pro_warranty": 18,
+          "country": "India"
+        }
+      }
+    }
+  }
+}
